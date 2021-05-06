@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background: black;
+    padding: 11rem;
+}
+
+.container{
+    font-size: 10rem;
+    color: white;
+}
+
+h1{
+    font-size: 3rem;
+    color: white;
+}
